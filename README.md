@@ -16,7 +16,7 @@ I’ve worked on multiple full-stack web projects using modern frameworks like R
 
 📫 **How to Reach Me**:  
 Email: mohamedamine.fradi@fsb.ucar.tn
-LinkedIn: [linkedin.com/in/amin-fradi/)](https://www.linkedin.com/in/amin-fradi/)
+LinkedIn: [linkedin.com/in/amin-fradi/](https://www.linkedin.com/in/amin-fradi/)
 
 💡 **Fun Fact**:  
 I enjoy bridging the gap between traditional development and modern AI—transforming ideas into smart, efficient solutions.
