@@ -16,13 +16,13 @@
 const amineFradi = {
   pronouns: "he" | "him",
   role: "Code Ninja | Data Wizard | AI Enthusiast",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "SQL", "NoSQL"],
-  frontend: ["React", "Angular", "HTML5", "CSS3"],
-  backend: ["Node.js", "Django", "Spring Boot", "RESTful APIs"],
-  dataViz: ["Power BI", "Tableau", "D3.js"],
+  code: ["JavaScript", "TypeScript", "Python", "Java","C","C++","SQL","PLSQL","NoSQL"],
+  frontend: ["React", "Angular","NextJS","Tailwind","Bootstrap","HTML5", "CSS3"],
+  backend: ["Node.js", "Django", "Spring Boot", "RubyOnRails"],
+  dataViz: ["Power BI", "Tableau"],
   aiMl: ["Machine Learning", "Predictive Analytics", "Data Pipelines"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-  currentlyLearning: ["Advanced AI Systems", "Complex Software Architecture"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB" ],
+  currentlyLearning: ["Advanced AI Systems","Deep Learning and Transforms", "Complex Software Architecture"],
   funFact: "I turn raw data into game-changing solutions ⚡"
 }
 ```
