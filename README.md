@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋+I'm+Mohamed+Amine+Fradi;Code+Ninja+|+Data+Wizard+|+AI+Enthusiast&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋+I'm+Mohamed+Amine+Fradi;Code+Ninja+|+Data+Wizard+|+AI+Enthusiast&center=true&size=50">
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
@@ -48,10 +48,7 @@ I'm always down to collaborate on:
 - 📊 Data visualization projects that tell compelling stories
 - 🤖 AI-powered solutions for real-world problems
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
 
 ---
 <div align="center">
