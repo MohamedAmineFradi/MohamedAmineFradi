@@ -1,22 +1,31 @@
-Hi, I’m Mohamed Amine Fradi — a passionate developer with a strong foundation in full-stack development and a growing focus on data and artificial intelligence.
+Mohamed Amine Fradi
+Code Ninja | Data Wizard | AI Enthusiast
+🔍 Who Am I?A Software & Data Engineering student geeking out over slick web apps and smart AI systems. I thrive on morphing raw data into epic solutions via full-stack dev and BI sorcery.
+🛠️ Tech Stack  
 
-🔍 **Interests**:  
-I'm deeply interested in applied AI, machine learning, data-driven applications, and building intelligent systems that solve real-world problems.
+Full-Stack Vibes: Crafting seamless apps with React, Angular, Node.js, Django, and Spring Boot. RESTful APIs and SQL/NoSQL databases? Totally owned.  
+BI Wizardry: Conjuring killer dashboards with Power BI and Tableau.  
+AI & Data: Leveling up in Python, TensorFlow, and cloud ML (AWS, Azure). Hacking MLOps and ethical AI for the ultimate edge.
 
-🧠 **Currently Learning**:  
-I'm expanding my expertise in data engineering, model deployment (MLOps), and ethical AI practices, while also refining my skills in Python, TensorFlow, and cloud-based ML platforms.
+🧠 Current Obsessions  
 
-💼 **Previous Experience**:  
-I’ve worked on multiple full-stack web projects using modern frameworks like React, Angular, Node.js, and Spring Boot. My experience includes API design, database management, and developping scalable web applications.
+Hacking data pipelines with Spark and Kafka.  
+Building complex software beasts that scale and shine.
 
-🤝 **Looking to Collaborate On**:  
-- AI-powered tools and platforms  
-- Open-source projects related to data science  
-- Web apps that integrate intelligent features  
+💼 Geek Cred  
 
-📫 **How to Reach Me**:  
-Email: mohamedamine.fradi@fsb.ucar.tn
-LinkedIn: [linkedin.com/in/amin-fradi/](https://www.linkedin.com/in/amin-fradi/)
+Engineered full-stack web apps from zero to hero.  
+Whipped up BI dashboards that turn data into symphonies.  
+Infused AI magic like predictive analytics into killer projects.
 
-💡 **Fun Fact**:  
-I enjoy bridging the gap between traditional development and modern AI—transforming ideas into smart, efficient solutions.
+🤝 Wanna Team Up?  
+
+Open-source AI or data science quests.  
+Web apps with brainy, next-gen features.
+
+📫 Ping Me  
+
+Email: mohamedamine.fradi@fsb.ucar.tn  
+LinkedIn: linkedin.com/in/amin-fradi/
+
+💡 Tech TidbitI’m all about fusing classic coding with AI to forge solutions that are as smart as they are sleek.
