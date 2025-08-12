@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋+I'm+Mohamed+Amine+Fradi;Code+Ninja+|+Data+Wizard+|+AI+Enthusiast&center=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋+I'm+Mohamed+Amine+Fradi;Code+Ninja;+Data+Wizard;AI+Enthusiast&center=true&size=20">
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
