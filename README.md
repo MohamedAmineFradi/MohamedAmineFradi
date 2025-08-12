@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
-<p><em>Software & Data Engineering Student at <a href="https://fsb.ucar.tn/">FSB</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building slick web apps & smart AI systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software & Data Engineering Student at <a href="https://fsb.ucar.tn/">FSB</a> , <a href="https://ucar.rnu.tn/">University of Carthage</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Building slick web apps & smart AI systems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![LinkedIn: amin-fradi](https://img.shields.io/badge/-amin--fradi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/amin-fradi/)](https://linkedin.com/in/amin-fradi/)
